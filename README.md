@@ -81,7 +81,7 @@ Q4 average volume is 35% higher than Q1 — fintechs should scale infrastructure
 COVID caused only a 2 month dip — April 2020 dropped 19.83% but April 2021 recovered 164% — COVID accelerated rather than damaged UPI adoption.
 
 Dashboard Features
-
+![UPI Dashboard](charts/dashboard.png)
 
 4 KPI cards — Total Transactions 2025, Volume Growth Since 2019, Peak Month Ever, Avg Transaction Value 2025
 5 interactive visuals covering growth, seasonality, behavior and COVID impact
